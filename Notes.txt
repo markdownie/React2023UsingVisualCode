@@ -1,0 +1,42 @@
+https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
+
+Follwoing the tutorial above
+
+---
+
+SET UP:
+
+1) Set up a folder
+
+2) node --version
+
+3) npm --version
+
+4) npx create-react-app my-app
+
+
+---
+
+Run it:
+
+cd my-app
+npm start
+
+http://localhost:3000 
+
+
+--
+
+Open it in Visual Code:
+
+cd my-app
+code .
+
+----
+
+Modern Javascript:
+
+ECMA 
+
+
+
